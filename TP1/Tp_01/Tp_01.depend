@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554250488 source:/home/emmanuel/Documentos/Utn/TPs/TP1/Tp_01/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn_operacionesMatematicas.h"
+
+1554250178 /home/emmanuel/Documentos/Utn/TPs/TP1/Tp_01/utn_operacionesMatematicas.h
+
