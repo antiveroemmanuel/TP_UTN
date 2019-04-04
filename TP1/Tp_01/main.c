@@ -10,23 +10,11 @@ int main()
     int A;
     int B;
     char operacion;
-
     printf("Ingrese un valor para A: ");
     scanf("%d",&A);
-
     printf("Ingrese un valor para B: ");
     scanf("%d",&B);
-
     printf("Seleccione una operacion (+, -, *, /, !): ");
     scanf("%c",&operacion);
-
-
-
-
-
-
-
-
-
     return 0;
 }
