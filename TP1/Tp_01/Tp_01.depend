@@ -6,15 +6,16 @@
 
 1554250178 /home/emmanuel/Documentos/Utn/TPs/TP1/Tp_01/utn_operacionesMatematicas.h
 
-1554387787 source:c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\main.c
+1554492648 source:c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\main.c
 	<stdio.h>
 	<stdlib.h>
 	"utn_operacionesMatematicas.h"
 
-1554378542 c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\utn_operacionesmatematicas.h
+1554492989 c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\utn_operacionesmatematicas.h
 
-1554387787 source:c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\utn_operacionesmatematicas.c
+1554492520 source:c:\users\emmanuel.antivero\downloads\tp_utn-master\tp_utn-master\tp1\tp_01\utn_operacionesmatematicas.c
 	<stdio.h>
 	<stdlib.h>
 	"utn_operacionesMatematicas.h"
+	<conio.h>
 
